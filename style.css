@@ -1,0 +1,27 @@
+img{
+    margin: 100px;
+    margin-bottom: 10px;
+  
+}
+input{
+   margin-left: 45%;
+
+}
+
+h1{
+    margin-left: 50%;
+}
+h2{
+    margin-left: 40%;
+}
+p{
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 500px;
+}
+
+body{
+    background-color:#E9967A ;
+}
